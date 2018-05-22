@@ -1,0 +1,10 @@
+Date,Date Modifier,Time,Status,Type,Description,Tags,Sources
+09/13/2016,On,,U,Event,Delimeter,BBC2-IE,Day 3
+01/05/2016,On,,D,Fact,Test,BBC3-IE,010612bconnell
+09/04/2016,After,,U,Event,chron_test,BBC2-IE,sports
+02/13/2016,Before,,D,Meeting,TC_05,TestTag,docView
+04/05/2016,Range,,U,Letter,TC_06,TestTag,RecentTestDoc
+03/04/2016,On,,U,,,CNN-IE,Regression Pack
+05/13/2016,After,,D,Meeting,TC_08,ITV-IE,autolink2
+07/05/2016,Range,,U,,TC_09,TestTag,Day 2
+08/04/2016,Before,,D,Letter,TC_10,TestTag,RecentTestDoc

@@ -1,0 +1,4850 @@
+                                                         1
+
+
+
+
+          1              CIVIL DISTRICT COURT
+                           PARISH OF ORLEANS
+          2               STATE OF LOUISIANA
+
+          3
+
+          4     NO. 2001-6848, DIVISION "E", SECTION 7
+
+          5           GAIL ROLLAND FREMIN, ET AL
+
+          6                     VERSUS
+
+          7        ENTERGY NEW ORLEANS, INC., ET AL
+
+          8  -------------------------------------------
+
+          9      NO. 03-3384, DIVISION "H", SECTION 13
+
+         10               JOAN WALKER, ET AL
+
+         11                     VERSUS
+
+         12        AVONDALE INDUSTRIES, INC., ET AL
+
+         13  -------------------------------------------
+
+         14     NO. 2003-15723, DIVISION "A", SECTION 5
+
+         15           FAY THIBODEAUX DANOS, ET AL
+
+         16                     VERSUS
+
+         17        AVONDALE INDUSTRIES, INC., ET AL
+
+         18
+
+         19            Deposition of DARRELL DEMPSTER,
+
+         20  taken on February 20, 2006, at the Ramada
+
+         21  Inn, Tideland Room, 400 East 1st Street,
+
+         22  Thibodeaux, Louisiana.
+
+         23
+
+         24  REPORTED BY:
+                 LESLIE L. NICOSIA
+         25      CERTIFIED COURT REPORTER
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         2
+
+
+
+
+          1              A P P E A R A N C E S
+
+          2
+
+          3  REPRESENTING GAIL ROLLAND FREMIN, ET AL:
+
+          4      THE LAW OFFICES OF ROUSSEL & ROUSSEL
+                 (BY:  GEROLYN PETIT ROUSSEL, ESQ.)
+          5      1710 Cannes Drive
+                 LaPlace, Louisiana 70068
+          6
+
+          7  REPRESENTING GENERAL ELECTRIC AND VIACON:
+
+          8      THE LAW OFFICES OF JONES, WALKER
+                 WAECHTER, POITEVENT, CARRERE & DENEGRE
+          9      (BY:  JOHN GOMILA, ESQ.)
+                 201 St. Charles Avenue
+         10      49th Floor
+                 New Orleans, Louisiana 70170
+         11
+
+         12  REPRESENTING ROCKBESTOS:
+
+         13      THE LAW OFFICES OF BARFIELD
+                 & ASSOCIATES
+         14      (BY:  MARGARET CASEY, ESQ.)
+                 400 Poydras Street
+         15      Suite 1460
+                 New Orleans, Louisiana 70130
+         16
+
+         17  REPRESENTING LIBERTY MUTUAL INSURANCE
+             COMPANY:
+         18
+                 THE LAW OFFICE OF DUNCAN, COURINGTON
+         19      & RYDBERG
+                 (BY:  JAMES M. MATHERNE, ESQ.)
+         20      400 Poydras Suite
+                 Suite 1200
+         21      New Orleans, Louisiana 70130
+
+         22
+
+         23
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         3
+
+
+
+
+          1             APPEARANCES (Continued)
+
+          2
+
+          3  REPRESENTING HOPEMAN BROTHERS INC.:
+
+          4      THE LAW OFFICE OF DUNCAN, COURINGTON
+                 & RYDBERG
+          5      (BY:  LOUIS O. OUBRE, ESQ.)
+                 400 Poydras Suite
+          6      Suite 1200
+                 New Orleans, Louisiana 70130
+          7
+
+          8  REPRESENTING BAYER SCIENCE CORPORATION,
+             INC. AS SUCCESSOR TO RHONE-POULENE, AG
+          9  COMPANY F/K/A AMCHEM PRODUCTS, INC. F/K/A
+             BENJAMIN FOSTER COMPANY:
+         10
+                 THE LAW OFFICES OF ABBOTT, SIMSES
+         11      & KUCHLER
+                 (BY:  MICHAEL ABRAHAM, ESQ.)
+         12      400 Lafayette Street
+                 Suite 200
+         13      New Orleans, Louisiana 70130
+
+         14
+             REPRESENTING FOSTER WHEELER:
+         15
+                 THE LAW OFFICES OF LYNN LUKER
+         16      & ASSOCIATES
+                 (BY:  JANET L. MACDONELL, ESQ.)
+         17      3433 Magazine Street
+                 New Orleans, Louisiana 70115
+         18
+
+         19  REPRESENTING NORTHROP GRUMMAN OHIO SYSTEMS,
+             INC. F/K/A AVONDALE INDUSTRIES, INC:
+         20
+                 THE LAW OFFICES OF BLUE WILLIAMS, LLP
+         21      (BY:  TARA NUNEZ SMITH, ESQ.)
+                 3421 North Causeway Boulevard
+         22      9th Floor
+                 Metairie, Louisiana 70002
+         23
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         4
+
+
+
+
+          1             APPEARANCES (Continued)
+
+          2
+             REPRESENTING PETER TERRITO, J. MILTON
+          3  GARRET AND AL BOSSIER, JR.:
+
+          4      THE LAW OFFICES OF PLAUCHE, MASELLI,
+                 LANDRY & PARKERSON
+          5      (BY:  JAMES ORDENEAUX, ESQ.)
+                 201 St. Charles Avenue
+          6      Suite 4240
+                 New Orleans, Louisiana 70170
+          7
+
+          8  REPRESENTING MCCARTY CORPORATION:
+
+          9      THE LAW OFFICES OF SIMON, PERAGINE,
+                 SMITH &REDFEARN
+         10      (BY:  DOUGLAS R. KINLER, ESQ.)
+                 1100 Poydras Street
+         11      30th Floor
+                 New Orleans, Louisiana 70163-3000
+         12
+
+         13  REPRESENTING DARRELL DEMPSTER:
+
+         14      THE LAW OFFICES OF WM. ROBERTS WILSON
+                 (BY:  WM. ROBERTS WILSON, ESQ.)
+         15      213 Katherine Drive
+                 Flowood, Mississippi 39232
+         16
+
+         17  REPRESENTING COMMERCIAL UNION INSURANCE
+             COMPANY:
+         18
+                 THE LAW OFFICES OF CRAWFORD LEWIS
+         19      (BY:  ADAM D. deMAHY, ESQ.)
+                 400 Poydras Street
+         20      Suite 2100
+                 New Orleans, Louisiana 70130
+         21
+
+         22  REPRESENTING AMERICAN CYANAMID VIA
+             TELEPHONE:
+         23
+                 THE LAW OFFICES OF MCGLINCHEY STAFFORD
+         24      (BY:  ERIN PARKINSON, ESQ.)
+                 643 Magazine Street
+         25      New Orleans, Louisiana 70130
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         5
+
+
+
+
+          1
+                        APPEARANCES (Continued)
+          2
+
+          3  REPRESENTING EAGLE INC. AND PFLUEGER
+             ELECTRIC COMPANY VIA TELEPHONE:
+          4
+                 THE LAW OFFICES OF MONTGOMERY, BARNETT
+          5      BROWN, READ, HAMMOND & MINTZ
+                 (BY:  FRANCIS ACCARDO, ESQ.)
+          6      1100 Poydras Street
+                 Suite 3200
+          7      New Orleans, Louisiana 70163-1132
+
+          8
+             REPRESENTING WALTER J. BARNES ELECTRIC VIA
+          9  TELEPHONE:
+
+         10      THE LAW OFFICES OF GALLOWAY, JOHNSON
+                 TOMPKINS & BURR
+         11      (BY:  KIMBERLY G. ANDERSON, ESQ.)
+                 701 Poydras Street
+         12      Suite 4040
+                 New Orleans, Louisiana 70139
+         13
+
+         14  REPRESENTING REILLY-BENTON, INC. VIA
+             TELEPHONE:
+         15
+                 THE LAW OFFICES OF BERNARD, CASSISA
+         16      ELLIOTT & DAVIS
+                 (BY:  WILLIAM BROCKMAN, ESQ.)
+         17      1615 Metairie Road
+                 Metairie, Louisiana 70005-3974
+         18
+
+         19  REPRESENTING WHITNEY HOLDING COMPANY VIA
+             TELEPHONE:
+         20
+                 THE LAW OFFICES OF BERNARD, CASSISA
+         21      ELLIOTT & DAVIS
+                 (BY:  CAROLINE ELLIOTT, ESQ.)
+         22      1615 Metairie Road
+                 Metairie, Louisiana 70005-3974
+         23
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         6
+
+
+
+
+          1             APPEARANCES (Continued)
+
+          2
+
+          3  REPRESENTING TAYLOR-SEIDENBACH VIA
+             TELEPHONE:
+          4
+                 THE LAW OFFICES OF HAILEY, MCNAMARA
+          5      HALL, LARMANN & PAPALE
+                 (BY:  MICHAEL HILL, ESQ.)
+          6      One Galleria Boulevard
+                 Suite 1400
+          7      Metairie, Louisiana 70001
+
+          8
+             REPRESENTING OKONITE COMPANY:
+          9
+                 THE LAW OFFICES OF SHER, GARNER
+         10      CAHILL, RICHTER, KLEIN, MCALISTER
+                 & HILBERT
+         11      (BY:  JOHN BALHOFF, ESQ.)
+                 909 Poydras Street
+         12      28th Floor
+                 New Orleans, Louisiana 70112
+         13
+
+         14  REPRESENTING O-I, FORMERLY KNOWN AS
+             OWENS-ILLINOIS, INC.:
+         15
+                 THE LAW OFFICES OF FORMAN, PERRY,
+         16      WATKINS, KRUTZ & TARDY
+                 (BY:  R. DEAN CHURCH, ESQ.)
+         17      1515 Poydras Street
+                 Suite 1300
+         18      New Orleans, Louisiana 70112
+
+         19
+
+         20
+
+         21
+
+         22
+
+         23
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         7
+
+
+
+
+          1                    I N D E X
+
+          2                                       PAGE
+
+          3  Title..............................  1
+
+          4  Appearances........................  2
+
+          5  Index..............................  7
+
+          6  Stipulation........................  8
+
+          7  EXAMINATION BY:
+
+          8      MR. BALHOFF.................... 10
+                                                 70
+          9                                      73
+
+         10      MR. ABRAHAM.................... 53
+
+         11      MS. MACDONELL.................. 55
+
+         12      MR. ORDENEAUX.................. 57
+
+         13      MR. GOMILA..................... 59
+
+         14      MR. OUBRE...................... 60
+
+         15      MR. KINLER..................... 61
+
+         16      MS. ROUSSEL.................... 62
+
+         17      MS. PARKINSON.................. 65
+                                                 71
+         18
+                 MR. ACCARDO.................... 69
+         19
+
+         20
+
+         21
+
+         22
+
+         23
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         8
+
+
+
+
+          1              S T I P U L A T I O N
+
+          2
+
+          3            It is stipulated and agreed by
+
+          4  and between counsel for the paries that the
+
+          5  deposition of DARRELL DEMPSTER, is hereby
+
+          6  taken pursuant to the Louisiana Code of
+
+          7  Civil Procedure, in accordance with law,
+
+          8  pursuant to Notice, on February 20, 2006,
+
+          9  in the Ramada Inn, Thibodaux, Louisiana;
+
+         10            That the formalities of sealing,
+
+         11  certification and filing are hereby
+
+         12  specifically waived;
+
+         13            That the reading and signing is
+
+         14  specifically waived;
+
+         15            That all objections, save those
+
+         16  as to the form of the question, are hereby
+
+         17  reserved until such time as this
+
+         18  deposition, or any part thereof, may be
+
+         19  used or sought to be used in evidence;
+
+         20            That Leslie L. Nicosia, Certified
+
+         21  Court Reporter, in and for the State of
+
+         22  Louisiana, officiated in administering the
+
+         23  oath to the above-named witness.
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                         9
+
+
+
+
+          1                DARRELL DEMPSTER
+                           7024 Highway 307
+          2              Thibodaux, Louisiana
+
+          3  a witness named in the above stipulation,
+
+          4  was examined and testified as follows:
+
+          5            BY MR. BALHOFF:
+
+          6                  Good afternoon, Mr.
+
+          7            Dempster.  Thank you for coming
+
+          8            for your deposition this
+
+          9            afternoon.  I know you've given
+
+         10            your deposition a couple of times
+
+         11            before.  Basically, all these
+
+         12            attorneys are going to get a
+
+         13            chance to ask you some questions.
+
+         14            If you don't understand any of
+
+         15            our questions, please let us know
+
+         16            and we can ask the question in a
+
+         17            better way.
+
+         18            BY THE WITNESS:
+
+         19                   I will.
+
+         20            BY MR. BALHOFF:
+
+         21                   If you can also wait until
+
+         22            the person asking the question
+
+         23            asks his question before you
+
+         24            answer it, that will make it
+
+         25            clearer for the court reporter.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        10
+
+
+
+
+          1            If you can also answer verbally,
+
+          2            yes or no, as opposed to head
+
+          3            shaking or uh-uh (NEGATIVE
+
+          4            RESPONSE) or uh-huh (AFFIRMATIVE
+
+          5            RESPONSE).  Is that fine?
+
+          6            BY THE WITNESS:
+
+          7                  That's fine.
+
+          8            BY MR. BALHOFF:
+
+          9                  If you answer any of the
+
+         10            questions that we ask, we will
+
+         11            assume that you understood the
+
+         12            question that we asked.  Is that
+
+         13            fine?
+
+         14            BY THE WITNESS:
+
+         15                  Right.
+
+         16  EXAMINATION BY MR. BALHOFF:
+
+         17      Q.    Can you please give us your
+
+         18  current addresses?
+
+         19      A.    7024 Highway 307, Thibodaux,
+
+         20  Louisiana.
+
+         21      Q.    You're married right now,
+
+         22  correct?
+
+         23      A.    Right.
+
+         24      Q.    Where are you working right now?
+
+         25      A.    I'm not.  I'm on Social Security.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        11
+
+
+
+
+          1      Q.    How long have you been on Social
+
+          2  Security?
+
+          3      A.    I got on Social Security in March
+
+          4  of 2005.
+
+          5      Q.    Where were you working before
+
+          6  that?
+
+          7      A.    I was working for Turner
+
+          8  Industries.  I was working at Vulcan
+
+          9  Chemical in Gonzales, Louisiana.
+
+         10      Q.    How long were you at Turner -- at
+
+         11  Vulcan for Turner?
+
+         12            BY MR. WILSON:
+
+         13                  Objection.  Aren't we going
+
+         14            to be talking about someone else?
+
+         15            BY MR. BALHOFF:
+
+         16                   We are.  This is the
+
+         17            furthest one I'm going to go
+
+         18            back, or the latest one I'm going
+
+         19            to go into.  I'm just curious
+
+         20            where he's been last.
+
+         21            BY THE WITNESS:
+
+         22                  I just started recently
+
+         23            working for Turner because our
+
+         24            company turned -- they took over.
+
+         25            I was working for Basic out of
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        12
+
+
+
+
+          1            Baton Rouge.  I was there for six
+
+          2            years.
+
+          3  EXAMINATION BY MR. BALHOFF:
+
+          4      Q.    I will just say for the record
+
+          5  that we are under court orders or
+
+          6  recommendations from a special master in
+
+          7  this case, in the Walker case, that we are
+
+          8  not to go into areas that have already been
+
+          9  covered in your previous depositions.
+
+         10            BY MR. BALHOFF:
+
+         11                  Off the record.
+
+         12             (OFF-RECORD DISCUSSION)
+
+         13            BY MS. ROUSSEL:
+
+         14                   Quote, if the witness has
+
+         15            no knowledge of the employment
+
+         16            history or exposure to asbestos
+
+         17            products of a particular
+
+         18            plaintiff and has previously been
+
+         19            deposed about all products
+
+         20            implicated in this case, that
+
+         21            deposition should not be taken,
+
+         22            period, closed quotes.
+
+         23                  We have similar rulings in
+
+         24            the Danos case.  The trial judge
+
+         25            stated that if the witness states
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        13
+
+
+
+
+          1            he does not know Golzie Danos,
+
+          2            that should end the inquiry.  A
+
+          3            writ was taken to the Fourth
+
+          4            Circuit, and the Fourth Circuit
+
+          5            granted the writ in part and
+
+          6            stated questioning of the witness
+
+          7            will be restricted to areas not
+
+          8            previously covered in other
+
+          9            depositions.
+
+         10                  In all other respects, this
+
+         11            writ application is denied
+
+         12            because the trial court had
+
+         13            indicated that if Golzie Danos
+
+         14            was known, then the witness could
+
+         15            be deposed with regard to
+
+         16            specific questions with regard to
+
+         17            Mr. Danos.
+
+         18                   I did want to state that.
+
+         19            In Fremin, we also had -- we took
+
+         20            a writ in that case to Fourth
+
+         21            Circuit, and the Fourth Circuit
+
+         22            specifically stated that Johnny
+
+         23            Johnson and Meredith would apply.
+
+         24  EXAMINATION BY MR. BALHOFF:
+
+         25      Q.    Okay.  And, Mr. Dempster, in one
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        14
+
+
+
+
+          1  of your previous depositions, you had
+
+          2  indicated that several crafts at Avondale
+
+          3  had worked around each other.  The crafts
+
+          4  that you had mentioned were pipe fitters,
+
+          5  insulators, electricians, painters, and
+
+          6  other finishing work?
+
+          7      A.    Right.
+
+          8      Q.    Did all those crafts work around
+
+          9  each other at Avondale?
+
+         10      A.    Yeah.  On the ship, you had all
+
+         11  kind of craft, whatever it took -- people
+
+         12  to do the job.  They also had welders.
+
+         13  They had those -- They called them
+
+         14  shrinkers.  They shrink the bulkheads on
+
+         15  the boat.  It was a number of different
+
+         16  craft on the ship at one time, yes.
+
+         17      Q.    Did the insulators such as
+
+         18  yourself work around electricians?
+
+         19      A.    Yes, at times or another we did.
+
+         20      Q.    You also identified in the
+
+         21  Dufrene case some ships you worked on --
+
+         22  around Steve Dufrene.  I just want to make
+
+         23  sure whether there were any other types of
+
+         24  ships that you worked on at Avondale.  The
+
+         25  types of vessels that you identified were
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        15
+
+
+
+
+          1  Navy ships?
+
+          2      A.    Right.
+
+          3      Q.    DE's?
+
+          4      A.    DE's.  They had a lot of hospital
+
+          5  ships we did some repairing.  We did some
+
+          6  cargo ships, the Lykes line.
+
+          7      Q.    Coast Guard cutters?
+
+          8      A.    Coast Guard cutters, that's
+
+          9  right.
+
+         10      Q.    Mine sweepers?
+
+         11      A.    Yes.
+
+         12      Q.    Any other types of vessels you
+
+         13  worked on at Avondale?
+
+         14      A.    Like I said, most of the -- you
+
+         15  know, the new ones were like all the Navy
+
+         16  ships we worked seven years on.  Navy ships
+
+         17  -- They built Navy ships about seven years.
+
+         18  I basically stayed on them ships for a long
+
+         19  time.
+
+         20      Q.    Are there any other naval vessels
+
+         21  bedsides the DE's, mine sweepers, Coast
+
+         22  Guard cutters that you classify as Navy
+
+         23  vessels?
+
+         24      A.    Right, and the hospital ship,
+
+         25  which was we repaired on it.  We had a lot
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        16
+
+
+
+
+          1  of -- We worked -- The cargo ship was the
+
+          2  Lykes line.  That was a brand new ship.
+
+          3  They also had a lot of repairing, depending
+
+          4  on where they put you at.  In other words,
+
+          5  depend where they put you at.  You move
+
+          6  around, do a lot of work.  It was mostly
+
+          7  ships on the water.
+
+          8      Q.    I left one out.  You also worked
+
+          9  on barges at Avondale too; is that correct?
+
+         10      A.    Yes, we did.  We sure did.
+
+         11      Q.    On all these types of vessels
+
+         12  that you worked on at Avondale, were
+
+         13  insulators also working around electricians
+
+         14  on these vessels?
+
+         15      A.    Yes.  We worked around everybody.
+
+         16  Like I said, at times or another we were
+
+         17  around electricians, pipe fitters, welders.
+
+         18  All crafts had something to do on them
+
+         19  ships.
+
+         20            BY MR. BALHOFF:
+
+         21                  Off the record.
+
+         22             (OFF-RECORD DISCUSSION)
+
+         23            BY MR. BALHOFF:
+
+         24                  The deposition started
+
+         25            before you-all got on the phone.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        17
+
+
+
+
+          1            Mr. Dempster has a personal
+
+          2            situation where he would like to
+
+          3            get out of here as quickly as
+
+          4            possible.  We apologize for not
+
+          5            getting you on the phone at the
+
+          6            very beginning.  We have gone for
+
+          7            about five minutes just talking
+
+          8            about the types of vessels Mr.
+
+          9            Dempster worked on at Avondale.
+
+         10  EXAMINATION BY MR. BALHOFF:
+
+         11      Q.    Mr. Dempster, in your previous
+
+         12  deposition, you also --
+
+         13            BY MR. WILSON:
+
+         14                  Objection.  Previous
+
+         15            depositions, aren't they covered
+
+         16            by this -- these orders?
+
+         17            BY MR. BALHOFF:
+
+         18                  It's a bridge question.
+
+         19            BY MS. ROUSSEL:
+
+         20                  It didn't sound like a
+
+         21            bridge question.  The last four
+
+         22            questions weren't bridge
+
+         23            questions.
+
+         24            BY MR. BALHOFF:
+
+         25                  This is similar to the
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        18
+
+
+
+
+          1            question I asked about identify
+
+          2            the type of naval vessels he
+
+          3            worked on related to this case
+
+          4            and not to the Steve Dufrene
+
+          5            case.  At this time, I will be
+
+          6            getting into certain insulating
+
+          7            materials that he identified in
+
+          8            his previous depositions.  I will
+
+          9            ask him about those materials as
+
+         10            they relate to these three cases.
+
+         11            BY MS. ROUSSEL:
+
+         12                  Okay.  Now, let me indicate
+
+         13            for the record that he does not
+
+         14            know any one of these plaintiffs.
+
+         15            He's talked about the products
+
+         16            that he recalls in his -- in
+
+         17            these other depositions.  You've
+
+         18            already asked him did
+
+         19            electricians work around
+
+         20            insulators, and he said from time
+
+         21            to time they would.
+
+         22                  I'm going to object to any
+
+         23            additional questions being asked
+
+         24            about the products when he
+
+         25            doesn't know these three
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        19
+
+
+
+
+          1            particular individuals.
+
+          2            BY MR. BALHOFF:
+
+          3                  That's never been stated on
+
+          4            the record yet.
+
+          5            BY MS. ROUSSEL:
+
+          6                  You obviously didn't ask
+
+          7            that.  If you would look at the
+
+          8            order, it says that's the first
+
+          9            question you are supposed to ask.
+
+         10            BY MR. BALHOFF:
+
+         11                  IT does not.
+
+         12  EXAMINATION BY MR. BALHOFF:
+
+         13      Q.    Mr. Dempster, you had identified
+
+         14  asbestos blankets as being used at
+
+         15  Avondale, correct?
+
+         16      A.    Right.
+
+         17      Q.    Would those have been used around
+
+         18  electricians?
+
+         19      A.    We sure do.
+
+         20      Q.    About those asbestos blankets,
+
+         21  you had stated that they were sewed
+
+         22  together in the insulator shop at Avondale?
+
+         23      A.    Right.
+
+         24      Q.    Were those ever sewed together
+
+         25  onboard the vessels?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        20
+
+
+
+
+          1      A.    Yes.  At time or another we had
+
+          2  to do some -- readjust them, you know.  You
+
+          3  might have to cut for something, so you had
+
+          4  to resew them by hand.
+
+          5            BY MR. WILSON:
+
+          6                  He's talking about himself.
+
+          7            That's also not supposed to be --
+
+          8            BY MR. BALHOFF:
+
+          9                  He's talking about his work
+
+         10            around electricians.  That was
+
+         11            the question.
+
+         12            BY MS. ROUSSEL:
+
+         13                   Let me object to the form
+
+         14            of the question.
+
+         15            BY MS. MACDONELL:
+
+         16                  I object as well.
+
+         17  EXAMINATION BY MR. BALHOFF:
+
+         18      Q.    You can continue, Mr. Dempster.
+
+         19            BY MS. ROUSSEL:
+
+         20                  Continue with what?
+
+         21            BY MR. BALHOFF:
+
+         22                  He was answering the
+
+         23            question about -- the specific
+
+         24            question about were asbestos
+
+         25            blankets sewn aboard Avondale
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        21
+
+
+
+
+          1            vessels.
+
+          2            BY MS. ROUSSEL:
+
+          3                  He said yes.
+
+          4            BY MR. BALHOFF:
+
+          5                  And he was continuing his
+
+          6            answer.  This would be over with
+
+          7            a lot more quickly if you would
+
+          8            stop objecting.
+
+          9            BY MS. ROUSSEL:
+
+         10                  This should have been over
+
+         11            with under the court's order.
+
+         12            This is not the first time you
+
+         13            have ignored the clear orders of
+
+         14            the court.  Since I'm not this
+
+         15            gentleman's attorney, I can't
+
+         16            tell him not to answer.  If he
+
+         17            were my client, I would be
+
+         18            telling him that.
+
+         19  EXAMINATION BY MR. BALHOFF:
+
+         20      Q.    Mr. Dempster --
+
+         21            BY MR. WILSON:
+
+         22                   Don't answer.  I'm
+
+         23            instructing him not to answer.
+
+         24            BY MR. BALHOFF:
+
+         25                   Let's get the judge on the
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        22
+
+
+
+
+          1            phone.
+
+          2            BY MS. PARKINSON:
+
+          3                  Excuse me.  Since we joined
+
+          4            later, I apologize.  Who is
+
+          5            representing Mr. Dempster?
+
+          6            BY MR. BALHOFF:
+
+          7                  Robert Wilson from the
+
+          8            Robert Wilson Law Firm.
+
+          9            BY MS. PARKINSON:
+
+         10                  How many prior depositions
+
+         11            has he given?
+
+         12            BY MR. BALHOFF:
+
+         13                  Two.
+
+         14            BY MS. PARKINSON:
+
+         15                  Are those depositions on
+
+         16            deposit?
+
+         17            BY MS. MACDONELL:
+
+         18                  People have them.  You can
+
+         19            get them.  Between -- I only have
+
+         20            one.  Other people seem to have
+
+         21            both.
+
+         22            BY MS. ROUSSEL:
+
+         23                  They have been made
+
+         24            available to all parties too in
+
+         25            both Danos and Fremin.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        23
+
+
+
+
+          1            BY MS. PARKINSON:
+
+          2                  When you say "made
+
+          3            available" --
+
+          4            BY MS. ROUSSEL:
+
+          5                  A letter went out.  If you
+
+          6            recall, Judge Landry required us
+
+          7            to identify those depositions we
+
+          8            were familiar with.  We did that
+
+          9            and sent it to all counsel.
+
+         10            BY MS. PARKINSON:
+
+         11                  Okay.  Thank you.
+
+         12            BY MS. ROUSSEL:
+
+         13                  You're welcome.
+
+         14            BY MR. BALHOFF:
+
+         15                  Okay.  Robert, just so I'm
+
+         16            clear, are you saying this
+
+         17            witness will not answer any
+
+         18            questions about insulators' work
+
+         19            and his work as an insulator done
+
+         20            around electricians at Avondale?
+
+         21            BY MS. ROUSSEL:
+
+         22                  He said that he worked from
+
+         23            time to time around electricians,
+
+         24            and he said he didn't know these
+
+         25            three particular gentlemen.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        24
+
+
+
+
+          1            BY MR. WILSON:
+
+          2                  I want him to answer things
+
+          3            about -- not his personal work,
+
+          4            these people that you were --
+
+          5            Golzie Danos and Rudy Walker,
+
+          6            which he does not know.
+
+          7            BY MR. BALHOFF:
+
+          8                  Okay.  Even if he doesn't
+
+          9            know these particular people, his
+
+         10            testimony is relative to what was
+
+         11            done around electricians because
+
+         12            it could have been done around
+
+         13            any of these three gentlemen.
+
+         14            BY MR. WILSON:
+
+         15                  I would --
+
+         16            BY MS. ROUSSEL:
+
+         17                  He testified to what he did
+
+         18            and where he did it and how he
+
+         19            did it in his two prior
+
+         20            depositions.
+
+         21            BY MR. BALHOFF:
+
+         22                  Never in the context of
+
+         23            around electricians.
+
+         24            BY MS. ROUSSEL:
+
+         25                  He said the crafts would
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        25
+
+
+
+
+          1            work from time to time around
+
+          2            each other.
+
+          3            BY MR. BALHOFF:
+
+          4                  And not even in those
+
+          5            previous depositions has he
+
+          6            clarified this one.
+
+          7            BY MS. ROUSSEL:
+
+          8                  Also, when you represented
+
+          9            to him that he had said that, in
+
+         10            fact, what you are now saying is
+
+         11            that he didn't?
+
+         12            BY MR. BALHOFF:
+
+         13                  No, Gerolyn.
+
+         14            BY MS. ROUSSEL:
+
+         15                  Okay.
+
+         16  EXAMINATION BY MR. BALHOFF:
+
+         17      Q.    Mr. Dempster, this really won't
+
+         18  take too long if we can get through these
+
+         19  particular items.  Again, is there anything
+
+         20  you wanted to add when you were talking
+
+         21  about asbestos blankets being sewn aboard
+
+         22  Avondale vessels or vessels being
+
+         23  constructed at Avondale around
+
+         24  electricians?
+
+         25            BY MS. MACDONELL:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        26
+
+
+
+
+          1                  Object to the form.
+
+          2  EXAMINATION BY MR. BALHOFF:
+
+          3      Q.    Do you have anything to add to
+
+          4  what you were saying?
+
+          5      A.    We didn't really sew the blankets
+
+          6  on the ship.  What I was telling you, if
+
+          7  you had to justify for a hanger or a pipe
+
+          8  or something, we did cut them and sew them
+
+          9  back up so it would fit.  Most of your
+
+         10  blanket was fabricated in the shop.
+
+         11            You can't fabricate something and
+
+         12  bring it on the ship and take it that it's
+
+         13  going to fit.  You got all kind of stuff.
+
+         14  Welders put hangers in the way and stuff
+
+         15  like that.  You got to cut them so they
+
+         16  will fit.  There were some cutting on the
+
+         17  ship also.
+
+         18      Q.    When you are talking about the
+
+         19  asbestos blankets, is this the same as --
+
+         20  You'd also talked in your previous
+
+         21  depositions about an asbestos cloth.  Are
+
+         22  these asbestos blankets the same or
+
+         23  different from asbestos cloths?
+
+         24      A.    Same.  Everything was asbestos.
+
+         25  The cloth was asbestos.  The material
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        27
+
+
+
+
+          1  inside the blanket was asbestos.  The
+
+          2  sewing thread was asbestos.  The only
+
+          3  thing, they had a couple of stainless steel
+
+          4  wires.  The coating on the thread was
+
+          5  asbestos.
+
+          6            At the time, we didn't know what
+
+          7  it was, you know.  We knew it was asbestos.
+
+          8  As far as we knew, it couldn't affect us.
+
+          9  We worked with it like, you know, nothing
+
+         10  going on.  Just down the years after we
+
+         11  found out how bad it was for you.
+
+         12      Q.    When you cut the asbestos
+
+         13  blankets or the asbestos cloth, would it
+
+         14  create dust?
+
+         15      A.    Oh, yeah, it sure did.
+
+         16      Q.    Would this dust have been created
+
+         17  around electricians?
+
+         18      A.    If they were around us, yes, it
+
+         19  would have been created around them.
+
+         20      Q.    Were there any particular vessels
+
+         21  that we have talked about previously that
+
+         22  you did not use asbestos blankets for?
+
+         23      A.    I don't believe.  Every ship that
+
+         24  had an engine room, they had asbestos in
+
+         25  it.  On the engine, your piping, all your
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        28
+
+
+
+
+          1  pipe was asbestos.  I don't believe they
+
+          2  had a ship out there that didn't have
+
+          3  asbestos.
+
+          4      Q.    Are you telling me that asbestos
+
+          5  blankets were used aboard every type of
+
+          6  these ships you worked on?
+
+          7      A.    Asbestos blankets, and you had
+
+          8  your pipe coverings was asbestos.
+
+          9  Everything we put on there, even the pipe
+
+         10  covers came back over with asbestos cloth
+
+         11  and glued it and wrapped the pipes.
+
+         12      Q.    That was the next product we were
+
+         13  going to talk about, was the pipe covering.
+
+         14      A.    That was in the engine room, the
+
+         15  fire room, any room they had engines like
+
+         16  generators, exhaust generators and all that
+
+         17  and you had people in there.  You had
+
+         18  electricians in there, the cleanup people,
+
+         19  the pipe fitters, the welders.  At times we
+
+         20  was bunched up in one room.
+
+         21            If we were exposed to it,
+
+         22  everybody around you was getting the same
+
+         23  thing.  We were on top of each other at
+
+         24  times.  There might have been days we were
+
+         25  by ourselves in there, but the majority of
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        29
+
+
+
+
+          1  time, everybody worked in the same room.
+
+          2  Everybody had a job to do.
+
+          3      Q.    Correct me if I'm wrong, but I
+
+          4  believe the pipe covering, either
+
+          5  manufacturers or trade names that you had
+
+          6  identified in your previous depositions,
+
+          7  were Kaylo, Johns-Manville.
+
+          8            BY MS. ROUSSEL:
+
+          9                  I'm going to object.
+
+         10            BY MR. BALHOFF:
+
+         11                  What's your objection?
+
+         12            BY MS. ROUSSEL:
+
+         13                  Now you are going through
+
+         14            his specific testimony, and then
+
+         15            you are talking about products
+
+         16            that he may or may not have
+
+         17            identified.  You are asking him
+
+         18            specific questions that he's been
+
+         19            specifically not only asked
+
+         20            about, but answered.
+
+         21            BY MR. BALHOFF:
+
+         22                  Again, this is a bridge
+
+         23            question.
+
+         24            BY MS. ROUSSEL:
+
+         25                  It's not a bridge question.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        30
+
+
+
+
+          1            It's the same question:  Didn't
+
+          2            you identify such and such in
+
+          3            your prior deposition?  Let me go
+
+          4            through them again.  That's what
+
+          5            you're doing.
+
+          6            BY MR. BALHOFF:
+
+          7                  I'm going to ask whether he
+
+          8            was working around these products
+
+          9            around electricians.
+
+         10            BY MS. ROUSSEL:
+
+         11                  He's already stated from
+
+         12            time to time, depending on what
+
+         13            they were doing, they may have
+
+         14            been in the area.
+
+         15  EXAMINATION BY MR. BALHOFF:
+
+         16      Q.    Mr. Dempster, we identified
+
+         17  Kaylo, Johns-Manville, Pabco?
+
+         18      A.    Pabco is one of them.
+
+         19      Q.    Thermabestos.
+
+         20            BY MR. WILSON:
+
+         21                  Objection.  It's all in the
+
+         22            -- You are going right down the
+
+         23            list, aren't you, from the
+
+         24            previous deposition?
+
+         25            BY MR. BALHOFF:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        31
+
+
+
+
+          1                  I am.  It's going to be
+
+          2            pretty hard to ask him about --
+
+          3            It's going to be hard to ask Mr.
+
+          4            Dempster -- Without jogging his
+
+          5            memory, I can't just ask Mr.
+
+          6            Dempster in a vacuum did you work
+
+          7            around -- or maybe I can ask
+
+          8            this.
+
+          9  EXAMINATION BY MR. BALHOFF:
+
+         10      Q.    Every single thing you worked
+
+         11  around that you identified in your previous
+
+         12  depositions, did you work around
+
+         13  electricians when you were using those?
+
+         14            BY MR. ACCARDO:
+
+         15                  Object to the form.
+
+         16            BY MR. BALHOFF:
+
+         17                  And that wasn't a question.
+
+         18            That's -- I think I'll get an
+
+         19            objection out of that one.
+
+         20            BY MR. WILSON:
+
+         21                  These orders just seem to
+
+         22            be clear.  If you are going to go
+
+         23            straight down through the
+
+         24            deposition --
+
+         25            BY MS. ROUSSEL:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        32
+
+
+
+
+          1                  They are very clear, and
+
+          2            you are ignoring them, which is
+
+          3            contempt of court.
+
+          4            BY MR. BALHOFF:
+
+          5                  I'm not ignoring them.
+
+          6            Thank you for your ruling.
+
+          7            BY MS. ROUSSEL:
+
+          8                  You're welcome.  It's not
+
+          9            my ruling.  It's the trial
+
+         10            court's ruling and the Fourth
+
+         11            Circuit's ruling and the Supreme
+
+         12            Court's ruling.
+
+         13  EXAMINATION BY MR. BALHOFF:
+
+         14      Q.    Let me ask you this.  Can you
+
+         15  think of any products that you identified
+
+         16  in your previous depositions that you did
+
+         17  not work around electricians while using --
+
+         18      A.    That would be a hard question to
+
+         19  answer.  Like I said, we were -- they had
+
+         20  people working out there.  I don't know if
+
+         21  this guy was a electrician or not.  I knew
+
+         22  my fellow workers, if he was an insulator.
+
+         23  I had friends out there, pipe fitters,
+
+         24  welders.  As far as these people they're
+
+         25  talking about, I don't know them.  I can't
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        33
+
+
+
+
+          1  tell you if it was a electrician, if he was
+
+          2  a pipe fitter.
+
+          3            We was doing our job, just
+
+          4  basically doing our job, and everybody was
+
+          5  just like working the same area.  Like I
+
+          6  said, I can't swear to you and say yeah,
+
+          7  there was a electrician right here while I
+
+          8  was doing this.  There probably was an
+
+          9  electrician.
+
+         10            But I know I worked in areas
+
+         11  where the electricians were pulling the
+
+         12  cables through the trays and all that.  You
+
+         13  had your pipe fitters welding pipes.  You
+
+         14  had a bunch of different craft working in
+
+         15  the same area.  Now, who they was -- Like
+
+         16  some of them come up with a name and said
+
+         17  was he there at that time.  No, I can't do
+
+         18  that.  We worked -- Everybody worked in the
+
+         19  same group.
+
+         20            A ship is not just one room like
+
+         21  this.  It's big.  You go all over the
+
+         22  place.  They did have electricians.  They
+
+         23  had pipe fitters.  They had welders, you
+
+         24  know.  Everybody worked -- They wouldn't
+
+         25  let us go insulate, and then when we
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        34
+
+
+
+
+          1  finished our job, another craft would come
+
+          2  in.  It wasn't like that.  Everybody worked
+
+          3  in the same area.  Like I said, you know, I
+
+          4  know at times they had electricians there.
+
+          5  I would be lying to you if I told you they
+
+          6  didn't, like they had other crafts.
+
+          7      Q.    In light of what you just said, I
+
+          8  think I would just like to briefly go down
+
+          9  the products that you had talked about.
+
+         10  Would electricians have worked around the
+
+         11  pipe coverings you have identified as
+
+         12  working with aboard vessels being
+
+         13  constructed at Avondale?
+
+         14      A.    If they worked around us?
+
+         15      Q.    Would electricians have worked
+
+         16  around you while you were using these types
+
+         17  of pipe coverings?
+
+         18      A.    Yeah, they would have.
+
+         19      Q.    Did cutting these types of pipe
+
+         20  covering create dust?
+
+         21      A.    Yes, it did, because everything
+
+         22  was dry.  We cut it with those big pruning
+
+         23  saws, and they created a lot of dust.  It
+
+         24  wasn't just the insulation dust in there.
+
+         25  You had welders that created smoke.  It was
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        35
+
+
+
+
+          1  -- It would.
+
+          2      Q.    Mr. Dempster, you had also
+
+          3  identified -- Are there any vessels that we
+
+          4  talked about previously that you did not
+
+          5  use these types of pipe covering aboard?
+
+          6      A.    No, not at that time.
+
+          7      Q.    Let's move on to the next one.
+
+          8  You had identified a cement or mud.  One of
+
+          9  the names you knew was One Shot.
+
+         10      A.    One Shot.
+
+         11      Q.    Did you use One Shot mud around
+
+         12  electricians?
+
+         13      A.    There again, it's possible it
+
+         14  could have happened.  Like I say, I don't
+
+         15  remember specifically if they had
+
+         16  electricians by me when I was doing it.
+
+         17  They had a bunch of people.  Like I told
+
+         18  you before the first question, it's
+
+         19  possible it happened, you know.
+
+         20            The electricians, they ran their
+
+         21  wires everywhere.  If I was in the engine
+
+         22  room working on the pipes around the
+
+         23  boilers and all, you had electricians there
+
+         24  hooking up wires and all that.  You had
+
+         25  pipe fitters, there again.  You had
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        36
+
+
+
+
+          1  welders.
+
+          2            When they build these ships,
+
+          3  everybody was in one area, a different
+
+          4  area.  But what I'm saying, different
+
+          5  crafts was always in the same area.  It
+
+          6  wasn't like one craft was in one area at
+
+          7  one time and the rest would stay out.  We
+
+          8  walked on top of each other at times.  It
+
+          9  was congested, a lot of people.
+
+         10      Q.    Are there any types of vessels
+
+         11  that you previously identified that you
+
+         12  cannot recall using the One Shot cement or
+
+         13  mud?
+
+         14      A.    You probably did -- some part of
+
+         15  the ship you did.  One Shot mud was
+
+         16  basically used where your boiler workers
+
+         17  at, in other words, in your engine room.
+
+         18      Q.    Was there a type of ship that we
+
+         19  identified that you didn't use that mud
+
+         20  aboard?
+
+         21      A.    No.  Like I said, every ship
+
+         22  since I been there nine years, almost ten
+
+         23  years, every ship we had, that's the type
+
+         24  of insulation we used.
+
+         25      Q.    Did -- Once the One Shot mud or
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        37
+
+
+
+
+          1  cement was dried, did it create dust?
+
+          2      A.    Not if you didn't disturb it.  If
+
+          3  you go beating on it, break it up, if you
+
+          4  tear into it once it settled, it's dry,
+
+          5  it's like anything else.  Then they put the
+
+          6  finishing coat on it, that cloth and
+
+          7  everything else, and it was sealed, not
+
+          8  sealed 100 percent.  Unless you disturb it,
+
+          9  you had to tear into it to do something,
+
+         10  then it would create dust.
+
+         11      Q.    Was there ever a need to tear
+
+         12  into it?
+
+         13      A.    Well, yeah.  That's what I told
+
+         14  you.  We did some repairing on a lot of
+
+         15  ships.  A lot of times you might have to go
+
+         16  strip something down, like I said, maybe
+
+         17  for electricians or welders.  You had to go
+
+         18  there till your work is done.  Not
+
+         19  everything we put up stayed all the time.
+
+         20  Some of it stayed permanent, but some of it
+
+         21  we had to go tear into to find something.
+
+         22            I don't know if you understand
+
+         23  me.  Like a hanger for a pipe, they might
+
+         24  hang another pipe underneath, so you had to
+
+         25  cut into the insulation for the pipe fitter
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        38
+
+
+
+
+          1  to put a hanger or something like that, so
+
+          2  you disturbed that stuff.
+
+          3            A lot of people walk on that mud
+
+          4  you are talking about.  That happened more
+
+          5  than one time.  We do the finish job, and
+
+          6  people be walking to go do their work and
+
+          7  all that stuff is just being brittle and
+
+          8  just crumbling and falling.
+
+          9      Q.    Was the need to tear into or
+
+         10  disturb the cement or mud a daily job?
+
+         11      A.    If we done it daily?
+
+         12      Q.    Did you have to tear into the mud
+
+         13  on a daily basis?
+
+         14      A.    No, I wouldn't say daily, no.
+
+         15      Q.    How often?
+
+         16      A.    I couldn't answer you that
+
+         17  question.  I really wouldn't know.
+
+         18      Q.    You had also said that you worked
+
+         19  with mastics aboard vessels constructed at
+
+         20  Avondale.  One particular name that you
+
+         21  recognized was Foster?
+
+         22      A.    Exactly.
+
+         23            BY MR. WILSON:
+
+         24                  Objection.  Could I take a
+
+         25            minute and go off the record?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        39
+
+
+
+
+          1            BY MR. BALHOFF:
+
+          2                  Sure.
+
+          3                  (BREAK TAKEN)
+
+          4  EXAMINATION BY MR. BALHOFF:
+
+          5      Q.    Getting back to mastic, including
+
+          6  ones manufactured by Foster, did you use
+
+          7  those mastics around electricians?
+
+          8            BY MR. WILSON:
+
+          9                  I'm going to instruct him
+
+         10            not to answer; previously
+
+         11            identified in another deposition.
+
+         12            BY MR. BALHOFF:
+
+         13                   Not whether he worked
+
+         14            around them -- worked with them
+
+         15            around electricians.
+
+         16            BY MS. MACDONELL:
+
+         17                   Neither of the two
+
+         18            previous depositions involved
+
+         19            electricians.  Steve Dufrene was
+
+         20            an insulator helper.  Joyce
+
+         21            Dempster was the wife of an
+
+         22            insulator.  They were different
+
+         23            trades at issue.
+
+         24            BY MS. ROUSSEL:
+
+         25                  They were different trades,
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        40
+
+
+
+
+          1            but he said from time to time he
+
+          2            would work around electricians.
+
+          3            He's already indicated that he
+
+          4            doesn't know any of these three
+
+          5            gentlemen.
+
+          6            BY MR. BALHOFF:
+
+          7                  You have indicated that
+
+          8            several times.
+
+          9            BY MS. ROUSSEL:
+
+         10                  Have you asked him?
+
+         11            BY MR. BALHOFF:
+
+         12                  I'm not asking him that
+
+         13            right now.
+
+         14  EXAMINATION BY MR. BALHOFF:
+
+         15      Q.    But the questions in Dufrene were
+
+         16  also specifically targeted to Steve
+
+         17  Dufrene, certainly not targeted to
+
+         18  electricians.  So, again, my question is
+
+         19  whether, Mr. Dempster, you as an insulator
+
+         20  worked with mastics aboard vessels
+
+         21  constructed at Avondale around
+
+         22  electricians?
+
+         23      A.    Let me put it to you this way.
+
+         24  If I tell you yeah, I could be lying to
+
+         25  you.  If I tell you no, I could be lying to
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        41
+
+
+
+
+          1  you again.  I don't know specifically if
+
+          2  they had electricians around.  Like I told
+
+          3  you, we had people, different crafts
+
+          4  working around us.  You can ask me until
+
+          5  tomorrow if I worked around electricians.
+
+          6  I can't answer you.  I don't know.
+
+          7            I did work with electricians on
+
+          8  the ship.  I worked with pipe fitters.  I
+
+          9  worked with welders.  I worked with those
+
+         10  shrinkers.  I worked with even the
+
+         11  laborers.  We were all in the same place.
+
+         12  I'm not going to tell you yeah, I worked
+
+         13  with electricians.  But, we did work, yeah,
+
+         14  with electricians.  I told you that
+
+         15  already.  They'd be pulling wires through
+
+         16  them cable trays.  They'd be hooking up the
+
+         17  lights, whatever the work was.
+
+         18            I was familiar with my job.  At
+
+         19  that time that is what I was doing, my job.
+
+         20  We were out there doing the job.  Like I
+
+         21  said, you know, they did have electricians
+
+         22  at the time.  Now, if I worked with that
+
+         23  mastic or if I worked with them blankets or
+
+         24  whatever, probably did.  Forty years ago,
+
+         25  it's kind of hard to tell you yes, I
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        42
+
+
+
+
+          1  remember that electrician when I was
+
+          2  putting that blanket on.  I would be lying
+
+          3  to you.  I don't know.
+
+          4            But I'm sure at one time or
+
+          5  another, they was there.  It wasn't just
+
+          6  insulators in the room.  Like in the engine
+
+          7  rooms, we had all crafts.  Any craft that
+
+          8  Avondale took to build the ship was working
+
+          9  in them rooms.  At one time or another
+
+         10  everybody was by each other.  What was we
+
+         11  doing?  Putting blanket, putting mud, or
+
+         12  what we were doing, I couldn't tell you
+
+         13  that.  When we're insulating, we was
+
+         14  fooling with asbestos.  I could tell you
+
+         15  that much.
+
+         16      Q.    Again, Mr. Dempster, if you don't
+
+         17  remember a particular item, that's fine.
+
+         18  Say you don't remember.  That's why I'm
+
+         19  going down the list.  You remembered some
+
+         20  of these other things.  I want to just make
+
+         21  sure what you do remember working around
+
+         22  electricians -- working with around
+
+         23  electricians and what you don't remember
+
+         24  working with around electricians.  This is
+
+         25  over the course of your career from 1965 to
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        43
+
+
+
+
+          1  1974 at Avondale.  Okay?
+
+          2            So, is it safe to say at some
+
+          3  point during your career from 1965 to 1974
+
+          4  at Avondale you did use mastic around
+
+          5  electricians?
+
+          6      A.    I would say so.
+
+          7      Q.    Let's move on to the cloth that
+
+          8  was used to wrap around pipes and boilers.
+
+          9  You had identified a thicker white or beige
+
+         10  cloth and then some --
+
+         11            BY MR. WILSON:
+
+         12                  Objection.  You are reading
+
+         13            right out of his deposition.
+
+         14            BY MS. ROUSSEL:
+
+         15                  And you also asked him
+
+         16            about cloth already.
+
+         17            BY MR. BALHOFF:
+
+         18                  I need a clarification here
+
+         19            because he identified what he
+
+         20            talked about as an asbestos
+
+         21            blanket as a thicker white or
+
+         22            beige cloth, and then there were
+
+         23            cloths that were green, red, and
+
+         24            blue.
+
+         25            BY MS. ROUSSEL:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        44
+
+
+
+
+          1                  No.  You are definitely
+
+          2            misinterpreting.  He said green,
+
+          3            red, or blue stripes within the
+
+          4            cloth.  So, either you are
+
+          5            intentionally misrepresenting his
+
+          6            prior testimony or --
+
+          7            BY MR. BALHOFF:
+
+          8                  Mr. Dempster can correct me
+
+          9            if I'm wrong.  That's what I'm
+
+         10            trying to get a clarification on.
+
+         11  EXAMINATION BY MR. BALHOFF:
+
+         12      Q.    When you were talking about
+
+         13  asbestos blankets, are you talking about
+
+         14  the asbestos cloth that you characterized
+
+         15  as thicker and white or beige?
+
+         16      A.    They had four or five different
+
+         17  kind of cloths.  You had the thick weave
+
+         18  cloth that was used for blankets for the
+
+         19  hotter part of the job.  They had different
+
+         20  kind of cloth.  They had the blue stripe
+
+         21  cloth, the green stripe cloth, and the red
+
+         22  stripe cloth.
+
+         23            And then we had another kind of
+
+         24  cloth that was re-wettable.  You dip it in
+
+         25  water, soak it and you wrap the pipe with
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        45
+
+
+
+
+          1  it.  After that dried up, they came with
+
+          2  the white mastic on it and sealed it off.
+
+          3      Q.    So, were all those different
+
+          4  types of cloths used around electricians as
+
+          5  well?
+
+          6      A.    Yes, they did.  They used it
+
+          7  around all crafts.
+
+          8      Q.    All these products that we've
+
+          9  been talking about, did they contain
+
+         10  asbestos?
+
+         11      A.    The cloth and all that?  You
+
+         12  asked me about the cloth and the asbestos
+
+         13  and the mastic and all that?
+
+         14      Q.    Yes.
+
+         15      A.    Everything was asbestos at
+
+         16  Avondale that I know of.
+
+         17            BY MR. ORDENEAUX:
+
+         18                  Object to responsiveness.
+
+         19  EXAMINATION BY MR. BALHOFF:
+
+         20      Q.    You had also talked about early
+
+         21  on in your career there was an insulation
+
+         22  like a spray foam.
+
+         23      A.    That didn't have asbestos.
+
+         24      Q.    Okay.  Did you ever use Limp It?
+
+         25      A.    What's that?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        46
+
+
+
+
+          1      Q.    Did you ever use a product called
+
+          2  Limp It?
+
+          3      A.    I don't remember.
+
+          4      Q.    Did you ever see electricians
+
+          5  work around Hopeman Brothers?
+
+          6      A.    Yes.
+
+          7      Q.    Did -- Would Hopeman Brothers
+
+          8  employees ever cut wallboard?
+
+          9      A.    They used to cut metal boards.
+
+         10  They used to insulate themselves also, put
+
+         11  Fiberglas and use sheet metal.  That's what
+
+         12  Hopeman Brothers mostly did, metal
+
+         13  fiberglass on the walls.  That I remember,
+
+         14  my knowledge, that I remember them doing.
+
+         15      Q.    Do you remember then whether
+
+         16  Hopeman Brothers employees ever cut any
+
+         17  type of wall material that generated dust?
+
+         18      A.    I don't know.  I couldn't really
+
+         19  tell you.  It's been so long.  I really
+
+         20  couldn't tell you.
+
+         21      Q.    Did you work with the mastics
+
+         22  aboard all the types of vessels that we
+
+         23  talked about previously?
+
+         24            BY MR. WILSON:
+
+         25                  Objection.  He already
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        47
+
+
+
+
+          1            answered that question today.
+
+          2  EXAMINATION BY MR. BALHOFF:
+
+          3      Q.    Mr. Dempster, did you use mastics
+
+          4  aboard all the types of vessels that we
+
+          5  talked about?
+
+          6      A.    I worked on the ship I told you
+
+          7  about at times or another.  I might not
+
+          8  have used mastics on one ship.  I might
+
+          9  have been strictly insulating pipe
+
+         10  covering.  I really can't tell you.  It's
+
+         11  been so long ago.  Maybe I did, maybe I
+
+         12  didn't.
+
+         13      Q.    We are just --
+
+         14      A.    You are talking forty-something
+
+         15  years ago.  I'm trying to tell you the best
+
+         16  of my knowledge what I remember.
+
+         17      Q.    So, you can't -- Is there any
+
+         18  particular type of vessel that you can
+
+         19  specifically recall that you didn't use
+
+         20  mastics aboard?
+
+         21      A.    No, not really.
+
+         22      Q.    Is there any specific type of
+
+         23  vessel you can recall where you didn't use
+
+         24  the green stripe, red stripe, blue stripe,
+
+         25  or re-wettable asbestos cloth?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        48
+
+
+
+
+          1      A.    No.  Because at that time, they
+
+          2  had a night crew that would come on.  We
+
+          3  would insulate during the day.  They had a
+
+          4  night crew that would come on and use all
+
+          5  that cloth and wrap the pipe.  That was the
+
+          6  finishing work on the pipe in the engine
+
+          7  rooms and all that, the ductwork.
+
+          8            They insulated air conditioning
+
+          9  duct.  They used some of that cloth to wrap
+
+         10  it with.  That was the finishing work.  I
+
+         11  would say at one time or another, all them
+
+         12  ships had it.  That's what we used to use
+
+         13  every day.
+
+         14      Q.    Do you know anything about the
+
+         15  electrical wire and cable that was used
+
+         16  during the construction of vessels at
+
+         17  Avondale?
+
+         18            BY MS. ROUSSEL:
+
+         19                  Let me object to the
+
+         20            broadness of the question.  He's
+
+         21            already talked about some things
+
+         22            about the wiring and cable.  He
+
+         23            talked about them pulling it and
+
+         24            using it.  So, when you say "do
+
+         25            you know anything," what are you
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        49
+
+
+
+
+          1            asking?
+
+          2  EXAMINATION BY MR. BALHOFF:
+
+          3      Q.    Do you know whether the
+
+          4  electrical wire and cable that was used at
+
+          5  Avondale contained asbestos?
+
+          6      A.    I don't know nothing about it.
+
+          7      Q.    Can you -- Do you know the
+
+          8  manufacturers of any of the wire and cable
+
+          9  used at Avondale?
+
+         10      A.    No.
+
+         11      Q.    Can you describe how the wire and
+
+         12  cable used at Avondale looked?
+
+         13      A.    Some of the wire, the smaller
+
+         14  wire, had that -- I don't know if it was
+
+         15  stainless.  They had the wire mesh around
+
+         16  it.  Some had black coating around it, that
+
+         17  I can remember.
+
+         18            Because like I said, we insulated
+
+         19  the -- we used to insulate the bulkheads
+
+         20  and all that.  We used to insulate all
+
+         21  around the electrical tracing, so we were
+
+         22  in that part also.  Now, what they were
+
+         23  made out of, what was the name of it, I
+
+         24  really couldn't tell you.
+
+         25            But I remember some of them, like
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        50
+
+
+
+
+          1  I said, had the little wire casing on it.
+
+          2  Some of them had the -- They were black,
+
+          3  rubber coating, whatever it was.  I thought
+
+          4  it was rubber coating.  If it was something
+
+          5  else, I have no idea.  I have no knowledge
+
+          6  on the electrical wires, but I know they
+
+          7  were there.
+
+          8      Q.    Have you ever heard of a company
+
+          9  called the Okonite Company?
+
+         10      A.    Uh-uh (NEGATIVE RESPONSE).
+
+         11            BY MR. GOMILA:
+
+         12                  Is that a yes or no?
+
+         13            BY THE WITNESS:
+
+         14                  No.
+
+         15  EXAMINATION BY MR. BALHOFF:
+
+         16      Q.    Have you ever heard of a company
+
+         17  called Rockbestos?
+
+         18      A.    No.
+
+         19      Q.    Did you do anything -- Other than
+
+         20  meet with your own attorney, did you do
+
+         21  anything to prepare for your deposition
+
+         22  today?
+
+         23      A.    No.
+
+         24      Q.    You didn't read any of your
+
+         25  previous depositions?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        51
+
+
+
+
+          1      A.    No.  I didn't bring that with me.
+
+          2  I got it at the house, though, but no, I
+
+          3  didn't bring it.
+
+          4            In fact, I just come back from
+
+          5  the hospital, like I was telling him right
+
+          6  there.  I drove up about 2:15 or something
+
+          7  like that.  I been to the hospital since
+
+          8  8:00 with my wife at the emergency room.  I
+
+          9  didn't know if I was going to make this.  I
+
+         10  tried calling your office in New Orleans,
+
+         11  and all I got was a secretary that couldn't
+
+         12  contact somebody -- try to get me
+
+         13  somebody's phone.
+
+         14            I called around 12:00.  All I got
+
+         15  was the beeper answer.  She tried to put me
+
+         16  to his secretary, and I couldn't get
+
+         17  through to her.  I was trying to call him.
+
+         18  We had miscommunication.  He had called me
+
+         19  at a unknown listed number.  I couldn't get
+
+         20  hold of him.  I didn't know if I could make
+
+         21  it, so it just -- I made it right before
+
+         22  ya'll.
+
+         23      Q.    Did you talk to Ms. Roussel right
+
+         24  here before this deposition?
+
+         25      A.    Yes, I did.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        52
+
+
+
+
+          1      Q.    What did you talk about?
+
+          2      A.    We just -- She was just showing
+
+          3  me -- telling me -- asked me if I knew
+
+          4  those clients, I guess electricians or
+
+          5  whatever.  I don't know them.  The only one
+
+          6  I knew was Steve years ago, Steve Dufrene.
+
+          7  I knew of him real good.  She asked me if I
+
+          8  knew Luther's wife, Luther Dempster's wife.
+
+          9  I didn't know her.  I knew Luther.  He was
+
+         10  my supervisor.  She asked me if I knew
+
+         11  these guys.  I said no, sure don't, which I
+
+         12  don't.
+
+         13      Q.    Did you talk about anything else
+
+         14  other than these three workers?
+
+         15      A.    Not that I know of, not really.
+
+         16  I just told them about when I came in and
+
+         17  all.  No.
+
+         18      Q.    Mr. Dempster, is there anything
+
+         19  that you feel you need to change about your
+
+         20  testimony from your previous depositions as
+
+         21  we sit here today?
+
+         22      A.    No.  As I told you, a few years
+
+         23  back, as I remember it right now, that's
+
+         24  it.  Some things I do remember.  A lot of
+
+         25  things, I don't know.  As far as the
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        53
+
+
+
+
+          1  product, I could tell you what it's made
+
+          2  out of, what it looked like.  As far as the
+
+          3  names, I don't remember all that.  Some of
+
+          4  the stuff like Kaylo and all that like we
+
+          5  talked about, I remember some of the stuff.
+
+          6  That was forty years ago, man.  That's
+
+          7  about it.
+
+          8            BY MR. BALHOFF:
+
+          9                  Those are all the questions
+
+         10            I have for right now.  Some of
+
+         11            the other attorneys may have some
+
+         12            questions for you.
+
+         13  EXAMINATION BY MR. ABRAHAM:
+
+         14      Q.    Just to be clear for the record,
+
+         15  do you know Golzie Danos?
+
+         16      A.    Golzie Danos, no, sir.
+
+         17      Q.    Do you know Rudy Walker?
+
+         18      A.    No, sir.
+
+         19      Q.    You were asked some questions
+
+         20  today about mastic.  Do you remember a
+
+         21  product called Arabol?  Does that sound
+
+         22  familiar?
+
+         23      A.    I don't know, Arabol?
+
+         24      Q.    Arabol.
+
+         25      A.    I don't know.  To be honest with
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        54
+
+
+
+
+          1  you, I don't remember.
+
+          2      Q.    You were asked some questions
+
+          3  about mastics.  Would you agree that there
+
+          4  were some mastics that did not contain
+
+          5  asbestos?
+
+          6      A.    I really couldn't tell you.  I
+
+          7  wasn't the expert on that.  I remember we
+
+          8  used it.  I remember we used a black
+
+          9  mastic, and I told that when I first came
+
+         10  in.  I don't remember the name, what it
+
+         11  was.  It came in a five-gallon bucket.  We
+
+         12  used to call it black mammy.  It was the
+
+         13  nickname for it.
+
+         14            We all sat in 55-gallon drums
+
+         15  when we did those barges, which I forgot he
+
+         16  asked me earlier.  We used to put that on
+
+         17  the insulation on them barges.  The mastic,
+
+         18  they had white mastic.  They had two
+
+         19  different kind of white mastic.  It had a
+
+         20  strong odor to it, and it was like --
+
+         21  almost turned to rubber when you would
+
+         22  finish with it.
+
+         23            Like I said, what was in it, what
+
+         24  was the product made out of, I couldn't
+
+         25  tell you.  As far as the mud, the asbestos
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        55
+
+
+
+
+          1  and all that, that I remember that.  But
+
+          2  like I said, at the time we didn't know
+
+          3  what it was.  As far as I'm concerned, it
+
+          4  was insulation like I'm doing right now.
+
+          5  I'm in the clear.  I'm not aware of
+
+          6  nothing.
+
+          7      Q.    Sitting here today, do you have
+
+          8  any personal knowledge that Golzie Danos
+
+          9  worked around any product manufactured by
+
+         10  Foster?
+
+         11      A.    I have no idea.  I don't even
+
+         12  know that guy.
+
+         13      Q.    Sitting here today, do you have
+
+         14  any personal knowledge that Rudy Walker
+
+         15  worked around any product manufactured by
+
+         16  Foster?
+
+         17      A.    I wouldn't know.
+
+         18            BY MR. ABRAHAM:
+
+         19                  Thank you.
+
+         20  EXAMINATION BY MS. MACDONELL:.
+
+         21      Q.    Mr. Dempster, when was the first
+
+         22  time somebody asked you if you knew Golzie
+
+         23  Danos?
+
+         24      A.    On my paper, what I received from
+
+         25  the subpoena.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        56
+
+
+
+
+          1      Q.    Did anybody call and ask you, do
+
+          2  you know Golzie Danos?
+
+          3      A.    No, ma'am.
+
+          4      Q.    Did anybody call and ask you, do
+
+          5  you know Rudy Walker?
+
+          6      A.    No, ma'am.
+
+          7      Q.    Do you have any idea why Ms.
+
+          8  Roussel listed you as a witness, since you
+
+          9  don't know either of those two people?
+
+         10      A.    I have no idea.
+
+         11      Q.    Do you remember the name of any
+
+         12  electricians that you did work with at
+
+         13  Avondale?
+
+         14      A.    Not right off the bat.  I don't
+
+         15  even know are they guys, women, these
+
+         16  people, or are they my age.  That was my
+
+         17  question.  Me and my wife, she was
+
+         18  questioning me, why are you getting
+
+         19  subpoenaed.  I said I don't know the
+
+         20  people.
+
+         21      Q.    Nobody showed you any pictures?
+
+         22      A.    No, ma'am.  When I read it on my
+
+         23  subpoena when the cops read it to me,
+
+         24  that's when I opened it up and read -- it
+
+         25  didn't ring a bell.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        57
+
+
+
+
+          1            BY MS. MACDONELL:
+
+          2                  Thank you, sir.
+
+          3  EXAMINATION BY MR. ORDENEAUX:
+
+          4      Q.    Mr. Dempster, I represent a few
+
+          5  individuals in this lawsuit.  Do you have
+
+          6  any testimony whatsoever regarding the
+
+          7  responsibilities of a gentleman named Pete
+
+          8  Territo as it relates to either Golzie
+
+          9  Danos or Rudy Walker?
+
+         10            BY MS. ROUSSEL:
+
+         11                  Object to the form of the
+
+         12            question.  He talked about
+
+         13            executive officer issues in his
+
+         14            first two depositions.  It's
+
+         15            overly broad, and he does have
+
+         16            much information which he's
+
+         17            talked about in his prior
+
+         18            depositions.
+
+         19            BY MR. ORDENEAUX:
+
+         20                  I read the prior
+
+         21            depositions.  It had nothing to
+
+         22            do with either of those
+
+         23            individuals.
+
+         24            BY THE WITNESS:
+
+         25                  Who was the guy?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        58
+
+
+
+
+          1            BY MR. ORDENEAUX:
+
+          2                  Peter Territo.
+
+          3            BY THE WITNESS:
+
+          4                  No.  Don't know him.
+
+          5  EXAMINATION BY MR. ORDENEAUX:
+
+          6      Q.    You have no reason to change any
+
+          7  prior testimony that you had about an
+
+          8  individual named Al Bossier, correct?
+
+          9      A.    Al Bossier?
+
+         10      Q.    Correct.
+
+         11      A.    You talking about the guy in
+
+         12  charge of Avondale?  Is that the same
+
+         13  gentleman we're talking about?
+
+         14      Q.    I'm asking you if you have any
+
+         15  reason to change any of your testimony that
+
+         16  you previously gave about that individual?
+
+         17      A.    I don't believe I was questioned
+
+         18  about Al Bossier, was I?
+
+         19      Q.    You would have no testimony
+
+         20  regarding responsibilities towards safety
+
+         21  that Al Bossier may have had or not have
+
+         22  had towards Golzie Danos or Rudy Walker,
+
+         23  correct?
+
+         24      A.    I don't know who you are talking
+
+         25  about, so no.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        59
+
+
+
+
+          1      Q.    Do you know an individual by the
+
+          2  name of J. Milton Garrett?
+
+          3      A.    Sure don't.
+
+          4            BY MR. ORDENEAUX:
+
+          5                  That's all the questions I
+
+          6            have.
+
+          7            BY MR. GOMILA:
+
+          8                  Mr. Dempster, my name is
+
+          9            John Gomila.  I have one or two
+
+         10            questions.
+
+         11  EXAMINATION BY MR. GOMILA:
+
+         12      Q.    Did your job involve the opening
+
+         13  or disassembly of any turbines at Avondale?
+
+         14      A.    No.  I didn't open no turbines.
+
+         15  Are you talking about the turbines itself?
+
+         16            BY MR. WILSON:
+
+         17                  Objection.  This is asking
+
+         18            him about him particularly.
+
+         19            BY MR. GOMILA:
+
+         20                  It's a very short line of
+
+         21            questions.
+
+         22  EXAMINATION BY MR. GOMILA:
+
+         23      Q.    Do you know, sir, whether or not
+
+         24  the turbines as received at Avondale,
+
+         25  either on ships that came in or new, were
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        60
+
+
+
+
+          1  insulated themselves or were they later
+
+          2  insulated?
+
+          3      A.    They were later insulated, as far
+
+          4  as I know.
+
+          5      Q.    They arrived uninsulated?
+
+          6      A.    Yes, that I know of.
+
+          7            BY MR. GOMILA:
+
+          8                  That's all I have.  Thank
+
+          9            you.
+
+         10            BY MR. BALHOFF5:
+
+         11                  Anybody on the phone have
+
+         12            any questions?
+
+         13            BY MS. ANDERSON:
+
+         14                   No questions.  This is Kim
+
+         15            Anderson.
+
+         16            BY MR. OUBRE:
+
+         17                   My name is Louis Oubre.
+
+         18  EXAMINATION BY MR. OUBRE:
+
+         19      Q.    Do you know a gentleman by the
+
+         20  name of Victoran Rome?
+
+         21      A.    Victoran Rome, is that a man or a
+
+         22  woman?
+
+         23      Q.    A man, Victoran.
+
+         24      A.    From Vacherie?  I think I know a
+
+         25  guy named Victoran Rome.  I'm not sure.  It
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        61
+
+
+
+
+          1  sounds familiar, somebody from Vacherie.
+
+          2      Q.    Did you ever work with him at
+
+          3  Avondale?
+
+          4            BY MR. WILSON:
+
+          5                  This is a different case.
+
+          6            BY MR. OUBRE:
+
+          7                  I'm just asking him if he
+
+          8            knows him from Avondale.
+
+          9            BY THE WITNESS:
+
+         10                  No.  If I knew him, it was
+
+         11            just an old fellow.
+
+         12  EXAMINATION BY MR. OUBRE:
+
+         13      Q.    What about Murphy Ewing?
+
+         14      A.    No, sir.
+
+         15            BY MR. OUBRE:
+
+         16                  Thank you.
+
+         17            BY MR. KINLER:
+
+         18                  Mr. Dempster, my name is
+
+         19            Doug Kinler.
+
+         20  EXAMINATION BY MR. KINLER:
+
+         21      Q.    Could you offer any testimony
+
+         22  that either Rudy Walker or Golzie Danos
+
+         23  ever worked around any products sold or
+
+         24  supplied by the McCarty Corporation?
+
+         25      A.    No.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        62
+
+
+
+
+          1            BY MR. KINLER:
+
+          2                  Thank you.
+
+          3  EXAMINATION BY MS. ROUSSEL:
+
+          4      Q.    You don't know Linwood Fremin, do
+
+          5  you?
+
+          6      A.    No, ma'am.
+
+          7      Q.    You were asked by Okonite's
+
+          8  attorney, Mr. Balhoff, several questions
+
+          9  about electricians.  Electricians worked
+
+         10  with cable and wire, didn't they?
+
+         11      A.    Yes, ma'am.
+
+         12      Q.    That's what they were handling
+
+         13  day in and day out; isn't that right?
+
+         14      A.    Yes, ma'am.
+
+         15      Q.    You talked about seeing them pull
+
+         16  cable?
+
+         17      A.    Yes, ma'am.
+
+         18            BY MR. BALHOFF:
+
+         19                  Objection.  The witness
+
+         20            said no such thing.
+
+         21            BY MS. ROUSSEL:
+
+         22                  The record will indicate
+
+         23            that he absolutely said that.
+
+         24  EXAMINATION BY MS. ROUSSEL:
+
+         25      Q.    Did you see them pulling cable?
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        63
+
+
+
+
+          1      A.    Yes, ma'am.  I seen them hook up
+
+          2  the electrical boxes.  Every craft I seen
+
+          3  people doing something.  If it was a pipe
+
+          4  fitter, I seen them welding and putting
+
+          5  pipe together.  If it was the welders, I
+
+          6  seen them welding.  I didn't know
+
+          7  specifically who was doing it.  Yes, like I
+
+          8  said, we all worked in the same area.
+
+          9      Q.    Did you see the electricians
+
+         10  stripping their cable?
+
+         11      A.    Yes, ma'am.  I seen that around.
+
+         12      Q.    You saw them stripping that with
+
+         13  knives?
+
+         14      A.    Yes, ma'am.
+
+         15      Q.    Did you see them cutting cable?
+
+         16      A.    I seen them cut them.
+
+         17      Q.    Did you see -- The cable that you
+
+         18  saw, did you see some as big as three and a
+
+         19  half or four inches?
+
+         20      A.    They had all kind of size cable
+
+         21  out there.
+
+         22      Q.    The bigger cables, did they have
+
+         23  to cut those with band saws?
+
+         24      A.    I don't know if it was band saws.
+
+         25  I know they used hand saws, hacksaws, cable
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        64
+
+
+
+
+          1  cutters for the smaller ones.
+
+          2      Q.    You said that products would be
+
+          3  on the floor.  Were these remnants or
+
+          4  pieces of the electrical cable that were
+
+          5  stripped off or cut off laying on the
+
+          6  floor?
+
+          7      A.    I imagine they would.  Just like
+
+          8  all workmen, we cut pipe and all that.  We
+
+          9  insulate.  We had stuff on the floor. I
+
+         10  would imagine the stripping would be on the
+
+         11  floor.
+
+         12      Q.    The remnants from these products,
+
+         13  they would be walked on by employees during
+
+         14  the day?
+
+         15      A.    Yes, ma'am.  Just like our
+
+         16  material, they walk on your good material
+
+         17  if you won't get it out of the way.
+
+         18      Q.    When you were asked about
+
+         19  Okonite, you are not saying the
+
+         20  electricians didn't use Okonite?  It's just
+
+         21  because you didn't handle those products,
+
+         22  you don't remember who manufactured them?
+
+         23            BY MR. BALHOFF:
+
+         24                  Objection to form.
+
+         25  EXAMINATION BY MS. ROUSSEL:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        65
+
+
+
+
+          1      Q.    You don't remember one way or the
+
+          2  other?
+
+          3      A.    No, ma'am,
+
+          4      Q.    Same thing with Rockbestos, you
+
+          5  don't remember one way or the other?
+
+          6      A.    No, ma'am.
+
+          7            BY MS. ROUSSEL:
+
+          8                  That's all I have.  Thank
+
+          9            you.
+
+         10            BY MS. PARKINSON:
+
+         11                   I have one.  It's Erin.
+
+         12  EXAMINATION BY MS. PARKINSON:
+
+         13      Q.    Mr. Dempster, did you ever work
+
+         14  at a facility called American Cyanamid?
+
+         15      A.    Yes, ma'am.
+
+         16      Q.    Can you tell me what time frame
+
+         17  that you worked at American Cyanamid?
+
+         18      A.    Right offhand, I couldn't.
+
+         19            BY MR. WILSON:
+
+         20                  Objection.  That's back to
+
+         21            his stuff.  That's back to his
+
+         22            work history, et cetera, that we
+
+         23            already -- It's been covered.
+
+         24            BY MS. MACDONELL:
+
+         25                  One of the plaintiffs
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        66
+
+
+
+
+          1            worked at American Cyanamid.
+
+          2            BY MS. ROUSSEL:
+
+          3                  Mr. Dempster is not listed
+
+          4            as a witness.
+
+          5            BY MR. BALHOFF:
+
+          6                  This is noticed in the
+
+          7            Fremin case.
+
+          8            BY MS. ROUSSEL:
+
+          9                  Are you going to try to add
+
+         10            him as a witness in the Fremin
+
+         11            case when he doesn't know Fremin?
+
+         12            BY MR. BALHOFF:
+
+         13                  I'm not.  Erin has a right
+
+         14            to ask about it.  It can lead to
+
+         15            discoverable evidence.
+
+         16            BY MS. PARKINSON:
+
+         17                  I think I am entitled.
+
+         18            BY MR. ACCARDO:
+
+         19                  Gerolyn, did you list this
+
+         20            witness in Fremin?
+
+         21            BY MS. ROUSSEL:
+
+         22                  He's not listed in Fremin,
+
+         23            since my superceding witness
+
+         24            list.
+
+         25            BY MS. PARKINSON:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        67
+
+
+
+
+          1                   Is he listed on anybody's
+
+          2            witness list in the Fremin
+
+          3            matter?
+
+          4            BY MS. ROUSSEL:
+
+          5                  Since the superceding
+
+          6            witness list, I don't think that
+
+          7            he is.  He's definitely not on
+
+          8            mine.
+
+          9            BY MS. PARKINSON:
+
+         10                   John, is he on yours or
+
+         11            Rockbestos?
+
+         12            BY MR. BALHOFF:
+
+         13                  He might be on mine.
+
+         14            BY MS. PARKINSON:
+
+         15                  I'm entitled to ask my
+
+         16            questions.
+
+         17            BY MR. BALHOFF:
+
+         18                  Gerolyn is telling me he's
+
+         19            not, but I honestly can't
+
+         20            remember.
+
+         21            BY MS. ROUSSEL:
+
+         22                  I'm not taking
+
+         23            responsibility for his witness
+
+         24            list.  I said he's not on the
+
+         25            will-call witness list.  However,
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        68
+
+
+
+
+          1            I would suggest he check his own
+
+          2            will-call --
+
+          3            BY MS. PARKINSON:
+
+          4                  Gerolyn, I'm going to
+
+          5            continue to ask my questions.
+
+          6            BY MS. ROUSSEL:
+
+          7                  You are sitting in front of
+
+          8            your computer.  You check.
+
+          9            BY MS. PARKINSON:
+
+         10                  I don't have that
+
+         11            information available.  He's not
+
+         12            on my list.  You are telling me
+
+         13            he's not on your list.  Are you
+
+         14            calling him in Fremin to offer
+
+         15            any testimony against American
+
+         16            Cyanamid?
+
+         17            BY MS. ROUSSEL:
+
+         18                  Considering he's not on my
+
+         19            list, I don't think I would be
+
+         20            able to.
+
+         21            BY MS. PARKINSON:
+
+         22                  Is anyone else that's on
+
+         23            the phone intending to call this
+
+         24            man to answer -- to offer any
+
+         25            testimony against American
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        69
+
+
+
+
+          1            Cyanamid?
+
+          2                  (NO RESPONSE)
+
+          3            BY MS. PARKINSON:
+
+          4                  Given no one has responded,
+
+          5            I'm going to assume that no
+
+          6            counsel representing any party to
+
+          7            this litigation is calling this
+
+          8            man to offer any testimony
+
+          9            against American Cyanamid.  For
+
+         10            that reason, I'll not ask him any
+
+         11            further questions.
+
+         12            BY MR. BALHOFF:
+
+         13                  Anybody else on the phone?
+
+         14            BY MR. ACCARDO:
+
+         15                  This is Frank Accardo.
+
+         16  EXAMINATION BY MR. ACCARDO:
+
+         17      Q.    Mr. Dempster, do you remember the
+
+         18  name of any electrical contractors who
+
+         19  might have been working around the engine
+
+         20  rooms that you were in while you were at
+
+         21  Avondale?
+
+         22      A.    No, sir, not right offhand.
+
+         23            BY ACCARDO:
+
+         24                  Okay.  That's all.
+
+         25            BY MR. BALHOFF:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        70
+
+
+
+
+          1                  I have one little bit that
+
+          2            I forgot to pick up.
+
+          3  EXAMINATION BY MR. BALHOFF:
+
+          4      Q.    I need you to clarify something
+
+          5  for me from one of your previous
+
+          6  depositions.
+
+          7            BY MR. ACCARDO:
+
+          8                  John.  I'm sorry.  Can I
+
+          9            just interrupt?  I'm just
+
+         10            checking out your witness list.
+
+         11            It looks like he is listed as a
+
+         12            witness in the Okonite will-call
+
+         13            list.
+
+         14            BY MS. ROUSSEL:
+
+         15                  On Okonite's will-call?
+
+         16            BY MR. ACCARDO:
+
+         17                  Yes.  It's Witness No. 49.
+
+         18            BY MR. BALHOFF:
+
+         19                  I thought that's why I
+
+         20            noticed him in this case.
+
+         21            BY MS. ROUSSEL:
+
+         22                  Then, Erin, I guess you had
+
+         23            better ask your questions.
+
+         24            BY MS. PARKINSON:
+
+         25                  Unless John wants to state
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        71
+
+
+
+
+          1            on the record that he's not going
+
+          2            to offer this witness to offer
+
+          3            testimony against my client,
+
+          4            otherwise --
+
+          5            BY MR. GOMILA:
+
+          6                  Ask your questions.
+
+          7  EXAMINATION BY MS. PARKINSON:
+
+          8      Q.    Mr. Dempster, can you tell me
+
+          9  when you worked at American Cyanamid?
+
+         10      A.    No, ma'am, I sure can't.
+
+         11      Q.    Can you give me an idea about the
+
+         12  decade?
+
+         13      A.    No, ma'am, I sure don't.
+
+         14      Q.    Can you give me an idea whether
+
+         15  it was -- Did you work as a direct employee
+
+         16  of American Cyanamid?
+
+         17      A.    No, ma'am.  If I did, it would
+
+         18  have been a contract in insulating, and it
+
+         19  would have been a short time.  Right now I
+
+         20  just remember American Cyanamid.  I recall
+
+         21  working there, but I don't know how long
+
+         22  ago it was, how long I worked there.  It
+
+         23  would have been insulating because that's
+
+         24  all I did in my life in the forty years I
+
+         25  worked.
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        72
+
+
+
+
+          1      Q.    I appreciate that, Mr. Dempster.
+
+          2  Would it be before the time you worked as
+
+          3  an insulator at Avondale or after?
+
+          4      A.    That was after.
+
+          5      Q.    It would have been after?
+
+          6      A.    Yes, ma'am.
+
+          7      Q.    I apologize.  I don't have copies
+
+          8  of your deposition.
+
+          9            BY MS. ROUSSEL:
+
+         10                  I can tell you neither
+
+         11            prior deposition discussed
+
+         12            American Cyanamid, Erin.
+
+         13  EXAMINATION BY MS. PARKINSON:
+
+         14      Q.    All I want to ask is, can you
+
+         15  tell me when it was you worked as an
+
+         16  insulator at Avondale?  I admit that
+
+         17  probably is going to be in your prior
+
+         18  deposition, but I didn't have that
+
+         19  information available to me.
+
+         20      A.    What was the question again?
+
+         21      Q.    Can you tell me when it was that
+
+         22  you worked as an insulator at Avondale?
+
+         23      A.    1965 to '74.
+
+         24            BY MS. PARKINSON:
+
+         25                  I appreciate your answering
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        73
+
+
+
+
+          1            my questions.  Thank you.
+
+          2            BY MR. BALHOFF:
+
+          3                  I have at least one other
+
+          4            question.
+
+          5  EXAMINATION BY MR. BALHOFF:
+
+          6      Q.    In one of your previous
+
+          7  depositions, you had stated that when
+
+          8  insulators such as yourself took materials
+
+          9  out of containers, just taking them out
+
+         10  would create dust.  What materials are you
+
+         11  talking about?
+
+         12      A.    The pipe covering, mostly, and
+
+         13  your blanket material.
+
+         14      Q.    Any other materials?
+
+         15      A.    I imagine -- I know the cloth, if
+
+         16  you ripped it -- We used to cut it and rip
+
+         17  it, and that would create dust.
+
+         18            BY MS. ROUSSEL:
+
+         19                  He's talking about when you
+
+         20            took it out of boxes.
+
+         21            BY THE WITNESS:
+
+         22                  Most of the boxes was like
+
+         23            pipe covering, and, you know,
+
+         24            like I said, asbestos.
+
+         25  EXAMINATION BY MR. BALHOFF:
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        74
+
+
+
+
+          1      Q.    Did you ever take those materials
+
+          2  out of their boxes while you were aboard
+
+          3  the vessels?
+
+          4      A.    Yeah.  We would take them out of
+
+          5  the boxes before we get on the vessels.
+
+          6  That's how we used to carry it on the ship.
+
+          7      Q.    Just so I'm clear, did you ever
+
+          8  take those materials out of the boxes while
+
+          9  you were on the vessels?
+
+         10      A.    Yes.
+
+         11      Q.    Did you ever take those materials
+
+         12  out of their boxes while other crafts, such
+
+         13  as electricians, were around you?
+
+         14      A.    Oh, yeah.
+
+         15            BY MR. BALHOFF:
+
+         16                  Those are all the questions
+
+         17            I have for you, Mr. Dempster.
+
+         18                  Anybody else?
+
+         19                  (NO RESPONSE)
+
+         20            BY MR. BALHOFF:
+
+         21                  All right.  Thank you for
+
+         22            your time today.
+
+         23    [WHEREUPON THE DEPOSITION WAS CONCLUDED]
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        75
+
+
+
+
+          1                 REPORTER'S PAGE
+
+          2
+
+          3            I, Leslie L. Nicosia, Certified
+
+          4  Court Reporter, in and for the State of
+
+          5  Louisiana, the officer, as defined in Rule
+
+          6  28 of the Federal Rules of Civil Procedure
+
+          7  and/or Article 1434 (B) of the Louisiana
+
+          8  Code of Civil Procedure, before whom this
+
+          9  sworn testimony was taken, do hereby state
+
+         10  on the record;
+
+         11            That due to the interaction and
+
+         12  the spontaneous discourse of this
+
+         13  proceeding, dashes (--) have been used to
+
+         14  indicate pauses, changes in thought, and/or
+
+         15  talk-overs; that same is the proper method
+
+         16  for a court reporter's transcription of
+
+         17  proceeding, and that the dashes (--) do not
+
+         18  indicate that words or phrases have been
+
+         19  left out of this transcript; that any words
+
+         20  and/or names which could not be verified
+
+         21  through reference material have been
+
+         22  denoted with the phrase "phonetically
+
+         23  spelled."
+
+         24
+
+         25                  _________________________
+                             Leslie L. Nicosia, C.C.R.
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        76
+
+
+
+
+          1              C E R T I F I C A T E
+
+          2            I, Leslie L. Nicosia, Certified
+
+          3  Court Reporter, do hereby certify that of
+
+          4  DARRELL DEMPSTER, after being first duly
+
+          5  sworn by me to testify to the truth, the
+
+          6  whole truth and nothing but the truth, did
+
+          7  testify as hereinbefore set forth in the
+
+          8  foregoing pages;
+
+          9            That the above and foregoing
+
+         10  pages of testimony is a true and correct
+
+         11  transcript of my stenographic notes to the
+
+         12  best of my ability and understanding;
+
+         13            That I cannot, however, certify
+
+         14  or attest to the accuracy or validity of
+
+         15  any copy not produced under my direct
+
+         16  supervision or control and, further, do not
+
+         17  lend certification to any such copies
+
+         18  unless they bear my original imprinted
+
+         19  seal;
+
+         20            That I am not of Counsel, nor
+
+         21  related to Counsel or the parties hereto,
+
+         22  and am in no way interested in the outcome
+
+         23  of this event.
+                              __________________________
+         24                   Leslie L. Nicosia
+                              Certified Court Reporter
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+
+
+                                                        77
+
+
+
+
+          1
+
+          2
+
+          3
+
+          4
+
+          5
+
+          6
+
+          7
+
+          8
+
+          9
+
+         10
+
+         11
+
+         12
+
+         13
+
+         14
+
+         15
+
+         16
+
+         17
+
+         18
+
+         19
+
+         20
+
+         21
+
+         22
+
+         23
+
+         24
+
+         25
+
+
+
+                      Gail Freese Court Reporting
+              2201 Veterans Memorial Boulevard, Suite 410
+                       Metairie, Louisiana 70002
+                        Phone:  (504) 833-7778
+

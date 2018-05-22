@@ -1,0 +1,11 @@
+Date,Time,Date Modifier,Timezone,Status,Type,Description,Tags,Sources
+10/04/2018,14:00,After,1,Undisputed,Letter,"Imported entry 4
+",,
+10/04/2018-11/04/2018,14:00,Range,1,Undisputed,Fact,"Imported entry 3
+",,
+23/04/2018,12:00,On,0,Disputed,Email,"Imported Entry 1
+",Imported Tag,hitchcock
+23/04/2018,13:00,Before,0,Disputed,Event,"Imported Entry 2
+",Imported Tag,hitchcock
+01/04/2018,09:00,On,8,,Meeting,"Imported entry 5
+",Imported Tag,hitchcock
